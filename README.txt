@@ -10,23 +10,23 @@ Suppose we have this "maze" example in memory,
 				      
 		
 		DEPTH FIRST SEARCH:
-				      c
-			       /  | \
-			      /   |  \
-			     /    |   \
-			    a    >d<  >f<
-		      /  \
-		     x   >d< 
-			/   
-		   b    
-		  /	
-		 d_ __
-		/| \  \
-	   / |  \  \
-    >a< >c< f  >g<
-           /| \
-		  / |  \
-	   >c< >d< (g)	       
+	          c
+	       /  | \
+	      /   |  \
+	     /    |   \
+	    a    >d<  >f<
+     	  /  \
+         x   >d< 
+	/   
+       b    
+      /	
+     d_ __
+    /| \  \
+   / |  \  \
+ >a< >c< f  >g<
+        /| \
+       / |  \
+     >c< >d< (g)
 		             
 		 * >node< marks visited nodes
 		 * DFS found g
