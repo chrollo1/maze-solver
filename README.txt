@@ -2,9 +2,9 @@ METHOD OF SOLVING:
 
 Suppose we have this "maze" example in memory,
 		
-			    c — f
+			    c â€” f
 			   / \ / \
-			  a — d — n
+			  a â€” d â€” n
 			 /   /   
 			x   b         (where c is starting node)
 				      
@@ -31,7 +31,8 @@ Suppose we have this "maze" example in memory,
 		 * >node< marks visited nodes
 		 * DFS found g
 		
-		DFS will not go to visited nodes (stored in current path List) and will instead go to unvisited nodes (not stored in current path List) and append to list.
+DFS will not go to visited nodes (stored in current path List) and will instead go to unvisited nodes (not stored in current path List) and append to list.
+		
 		Therefore, the path is:
 		
 			c -> a -> x -> b -> d -> f -> g 
