@@ -72,5 +72,3 @@ void computePaths(Vertex src):
         v.prev = u
         q.add(v)       
 ```
-
-![alt](https://media.giphy.com/media/1wpO1hhXMrhqOrUwQo/giphy.gif)
