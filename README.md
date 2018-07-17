@@ -1,7 +1,7 @@
 # Maze Solver with DFS and Djikstra
 
 Suppose we have this "maze" example in memory,
-		
+```	
 			    c — f
 			   / \ / \
 			  a — d — n
@@ -27,7 +27,7 @@ Suppose we have this "maze" example in memory,
         /| \
        / |  \
      >c< >d< (g)
-		             
+```	             
 		 * >node< marks visited nodes
 		 * DFS found g
 		
@@ -52,6 +52,7 @@ The time complexity of such is:
 O(m log n)
 
 
+```
 ```
 void computePaths(Vertex src):
   src.min := 0
