@@ -2,6 +2,8 @@
 
 ### Example Maze
 
+https://media.giphy.com/media/1wpO1hhXMrhqOrUwQo/giphy.gif
+
 Suppose we have this "maze" example in memory,
 ```	
 			    c — f
