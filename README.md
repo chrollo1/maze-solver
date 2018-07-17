@@ -1,7 +1,6 @@
 # Maze Solver with DFS (will implement Djikstra soon)
 
 ### Example Maze
-![alt text](https://media.giphy.com/media/1wpO1hhXMrhqOrUwQo/giphy.gif)
 
 Suppose we have this "maze" example in memory,
 ```	
@@ -73,3 +72,5 @@ void computePaths(Vertex src):
         v.prev = u
         q.add(v)       
 ```
+
+![alt](https://media.giphy.com/media/1wpO1hhXMrhqOrUwQo/giphy.gif)
