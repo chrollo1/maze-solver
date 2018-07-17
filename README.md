@@ -2,8 +2,7 @@
 
 ### Example Maze
 
-![alt text](https://media.giphy.com/media/bFplepDUW82iV0l0FC/giphy.gif)
-
+<iframe src="https://giphy.com/embed/1wpO1hhXMrhqOrUwQo" width="443" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1wpO1hhXMrhqOrUwQo">via GIPHY</a></p>
 Suppose we have this "maze" example in memory,
 ```	
 			    c — f
