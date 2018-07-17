@@ -1,7 +1,7 @@
 # Maze Solver with DFS (will implement Djikstra soon)
 
 ### Example Maze
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1wpO1hhXMrhqOrUwQo/giphy.mp4)
 
 Suppose we have this "maze" example in memory,
 ```	
