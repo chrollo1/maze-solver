@@ -1,5 +1,4 @@
 # Maze Solver with DFS (will implement Djikstra soon
----
 ![alt text](https://media.giphy.com/media/21NNIw6VdyFzdhd4Ut/giphy.gif)
 ---
 Suppose we have this "maze" example in memory,
