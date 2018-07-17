@@ -53,7 +53,6 @@ O(m log n)
 
 
 ```
-```
 void computePaths(Vertex src):
   src.min := 0
   q.add(src)
