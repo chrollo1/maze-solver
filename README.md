@@ -1,8 +1,7 @@
 # Maze Solver with DFS (will implement Djikstra soon)
 
 ### Example Maze
-
-<iframe src="https://giphy.com/embed/1wpO1hhXMrhqOrUwQo" width="443" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1wpO1hhXMrhqOrUwQo">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Suppose we have this "maze" example in memory,
 ```	
 			    c — f
