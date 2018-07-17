@@ -2,7 +2,7 @@
 
 ### Example Maze
 
-![alt text](https://media.giphy.com/media/1wpO1hhXMrhqOrUwQo/giphy.gif)
+![alt text](https://media.giphy.com/media/bFplepDUW82iV0l0FC/giphy.gif)
 
 Suppose we have this "maze" example in memory,
 ```	
