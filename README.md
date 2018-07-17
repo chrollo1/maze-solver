@@ -1,4 +1,4 @@
-# Maze Solver with DFS and Djikstra
+# Maze Solver with DFS (will implement Djikstra soon)
 
 Suppose we have this "maze" example in memory,
 ```	
