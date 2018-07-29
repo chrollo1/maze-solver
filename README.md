@@ -34,7 +34,7 @@ Suppose we have this "maze" example in memory,
 		 * >node< marks visited nodes
 		 * DFS found g
 		
-DFS will not go to visited nodes (stored in current path List) and will instead go to unvisited nodes (not stored in current path List) and append to list.
+DFS will not go to visited nodes (stored in current path List) and will instead go to unvisited nodes (not stored in current path List) and append to list
 		
 		Therefore, the path is:
 		
