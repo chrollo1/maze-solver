@@ -1,4 +1,4 @@
-# Maze Solver with DFS (will implement Djikstra soon)
+# Maze Solver with DFS
 
 ### Example Maze
 ![Alt Text](https://media.giphy.com/media/m8WJyj31MS4IJbFQBm/giphy.gif)
