@@ -6,9 +6,6 @@ public class MazeSolve {
 	public static final char EMPTY = ' ';
 	public static final char VISITED = 'o';
 	public static final char PATH = (char) 0x25A0;
-
-	
-	// test test test test test test test test test test 
 	
 	// init maze
 	public static char[][] maze = {
