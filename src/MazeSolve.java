@@ -7,6 +7,8 @@ public class MazeSolve {
 	public static final char VISITED = 'o';
 	public static final char PATH = (char) 0x25A0;
 	
+	//sgdfsdgfjd
+	
 	// init maze
 	public static char[][] maze = {
 
