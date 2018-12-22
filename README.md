@@ -1,4 +1,4 @@
-# Maze Solver with DFS (currently not shortest path)
+# Maze Solver with DFS
 
 ### Example Maze
 ![Alt Text](https://media.giphy.com/media/m8WJyj31MS4IJbFQBm/giphy.gif)
