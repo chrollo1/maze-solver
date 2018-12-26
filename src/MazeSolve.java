@@ -6,9 +6,7 @@ public class MazeSolve {
 	public static final char EMPTY = ' ';
 	public static final char VISITED = 'o';
 	public static final char PATH = (char) 0x25A0;
-	
-	//sgdfsdgfjd
-	
+
 	// init maze
 	public static char[][] maze = {
 
@@ -143,7 +141,7 @@ public class MazeSolve {
 		for(int p = 0; p < path.size(); p+=2) {
 			int pathX = path.get(p);
 			// y coord are [1, 3, 5, ..., path.size() - 1];
-			int pathY = path.get(p + 1);
+			int pathY = path.get(p+1);
 			// set maze at P(pathX, pathY) to path char
 			maze[pathY][pathX] = PATH;
 			// print update
@@ -155,7 +153,6 @@ public class MazeSolve {
 	}
 
 	public static void printMaze(char[][] maze, ArrayList<Integer> path) {
-
 		// print empty lines
 		for(int i = 0 ; i < maze[0].length; i++) {
 			System.out.println();
@@ -171,7 +168,5 @@ public class MazeSolve {
 			}
 			System.out.println();
 		}
-
 	}
-
 }
