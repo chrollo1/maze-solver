@@ -100,7 +100,6 @@ public class MazeSolve {
 	 */
 
 	public static boolean searchMaze(char[][] maze, int x, int y, ArrayList<Integer> path) {
-
 		// start
 		if (maze[y][x] == 'X') {
 			path.add(x);
@@ -134,7 +133,6 @@ public class MazeSolve {
 	}
 
 	public static void updatePosition(char[][] maze, ArrayList<Integer> path) throws InterruptedException {
-
 		// x coord in path are [0, 2, 4, ..., path.size() - 2]
 		for(int p = 0; p < path.size(); p+=2) {
 			int pathX = path.get(p);
